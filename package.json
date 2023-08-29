@@ -1,0 +1,28 @@
+{
+  "name": "productmanager_skincare",
+  "version": "1.0.0",
+  "description": "productos de skincare para utilizarlos dia a dia",
+  "main": "ProductManager.js",
+  "scripts": {
+    "start": "ProductManager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcornejov40/ProductManager_1skincare.git"
+  },
+  "keywords": [
+    "skincare",
+    "productos",
+    "cuidado",
+    "diario",
+    "belleza",
+    "rutina",
+    "facial"
+  ],
+  "author": "Daniela Cornejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcornejov40/ProductManager_1skincare/issues"
+  },
+  "homepage": "https://github.com/dcornejov40/ProductManager_1skincare#readme"
+}
